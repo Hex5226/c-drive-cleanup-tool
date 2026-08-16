@@ -6,7 +6,7 @@
 
 # ── 改成你自己的 ──────────────────────────
 $GITEE_REPO = "https://gitee.com/Hex5226/c-drive-cleanup-tool"
-$GITEE_TOKEN = "8cc08520b0537e212d7dcde10e0819c7"
+$GITEE_TOKEN = "你的Gitee私人令牌"
 # ─────────────────────────────────────────
 
 $RELEASES_DIR = "F:\CleanC_Project\Releases"
